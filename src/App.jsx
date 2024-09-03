@@ -9,6 +9,7 @@ function App() {
         <div>
             <Titulos/>
             <h1>Componentes en ofertas</h1>
+            <p>COMPRAS</p>
             <Body/>
             <Navbar/>
             <Footer/>
